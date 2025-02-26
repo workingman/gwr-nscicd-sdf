@@ -21,9 +21,10 @@ define(['N/record', 'N/search'],
          * @since 2015.2
          */
         function pageInit(scriptContext) {
-            const s = "20250313-122646"
-            alert("Hola Amigos")
-    // geoff 
+            const s = "20250226-105649"
+            alert("Bonjour tout la monde")
+            // 20250226-111833
+    
         }
         return {
             pageInit: pageInit,

@@ -19,6 +19,7 @@ define(['N/record', 'N/search'],
          * @param {string} scriptContext.mode - The mode in which the record is being accessed (create, copy, or edit)
          *
          * @since 2015.2
+         *  20250226-104708
          */
         function pageInit(scriptContext) {
             const s = "20240315-122646"

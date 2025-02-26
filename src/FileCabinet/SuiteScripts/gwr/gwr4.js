@@ -23,6 +23,7 @@ define(['N/record', 'N/search'],
         function pageInit(scriptContext) {
             const s = "20250313-122646"
             alert("Hola Amigos")
+            // 20250226-104731
     
         }
         return {

@@ -15,6 +15,7 @@ function(record, search) {
     // GR 241203 
     // GR 20240503-132414
     // GR 20240723-095848
+    // GR 20250226-072548
     /**
      * Function to be executed after page is initialized.
      *

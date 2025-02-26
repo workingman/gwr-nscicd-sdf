@@ -27,4 +27,4 @@ jobs:
           # Salto command line should to be able to accept the url format in github.event.pull_request.url, 
           # but for now I will transform it above
              
-          ./salto-cloud deployment create from-pull-request -E ${{vars.SALTO_UAT_ENV}} -u $pr_url 
+          ./salto-cloud deployment create from-pull-request -E ${{vars.SALTO_UAT_ENV}} -u $pr_url -g

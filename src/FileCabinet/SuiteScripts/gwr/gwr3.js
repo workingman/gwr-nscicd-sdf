@@ -11,6 +11,7 @@ define(['N/record', 'N/search'],
     
      */
     function(record, search) {
+        // BAM-17 3/10 9:31
         /**
          * Function to be executed after page is initialized.
          *
